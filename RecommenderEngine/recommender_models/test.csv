@@ -1,0 +1,5 @@
+CustomerID,StockCode,Quantity_Scaled
+32, 432, 1
+32, 125, 0.2
+45, 432, 0.554
+57, 370, 0.7
